@@ -50,7 +50,7 @@ Run the notebook directly in Google Colab with GPU acceleration:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/car-vae-tutorial/blob/main/car_vae_tutorial.ipynb)
 
 ## Tutorial
-For a detailed step-by-step tutorial, read the Medium article: [Generating Car Images with Variational Autoencoders](https://medium.com/@yourusername/generating-car-images-with-variational-autoencoders-a-step-by-step-tutorial).
+For a detailed step-by-step tutorial, read the Medium article: [Generating Car Images with Variational Autoencoders](https://medium.com/@loveymishra60/car-image-generation-using-variational-autoencoder-281b0707789d).
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for suggestions.
